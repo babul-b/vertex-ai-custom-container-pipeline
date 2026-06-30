@@ -11,7 +11,8 @@ The pipeline demonstrates:
 - Passing environment variables into the custom container
 - Executing the pipeline with a runtime service account
 
-> Medium article: `https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b`
+> Medium article: [https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop](https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b)
+
 
 ---
 
