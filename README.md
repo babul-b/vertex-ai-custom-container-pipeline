@@ -1,6 +1,3 @@
-**Medium article**
-https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b
-
 # Vertex AI CustomTrainingJobOp - Custom Container Pipeline
 
 This repository contains a simple, generic example of running a two-step Vertex AI Pipeline using `CustomTrainingJobOp` from Google Cloud Pipeline Components.
@@ -14,7 +11,7 @@ The pipeline demonstrates:
 - Passing environment variables into the custom container
 - Executing the pipeline with a runtime service account
 
-> Medium article: `<PASTE_YOUR_MEDIUM_STORY_LINK_HERE>`
+> Medium article: `https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b`
 
 ---
 
