@@ -19,6 +19,4 @@ This sample starts with a simple container so the basic pattern is easy to under
 
 ## Medium link
 
-Paste the published Medium story link here:
-
-`https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b`
+[https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop](https://medium.com/@babul_b/running-a-vertex-ai-custom-container-training-pipeline-with-customtrainingjobop-1b1cca9c840b)
